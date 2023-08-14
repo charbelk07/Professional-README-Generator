@@ -76,7 +76,7 @@ function writeReadmeFile (fileName, data) {
 async function init() {
 const answers = await inquirer.prompt(promptQuestion)
 console.log(answers)
-    writeReadmeFile("README.md" , answers )
+    writeReadmeFile("NewREADME.md" , answers )
 }
 
 // Function call to initialize app
