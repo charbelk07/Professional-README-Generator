@@ -41,6 +41,9 @@ function generateMarkdown(pizza) {
   ## Installation
   ${pizza.installation}
 
+  ## Usage
+  ${pizza.usage}
+
   ## Contributions
   ${pizza.contribution}\n
   Contact: ${pizza.email}\n

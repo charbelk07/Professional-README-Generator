@@ -14,11 +14,13 @@
   - [CONTRIBUTION](#contribution)
 
   ## Installation
+
+  ## Usage
   Test
 
   ## Contributions
   Test
 
-  Contact: Test
+  Contact: Charbelk7@yahoo.com
 
-  Github: Test
+  Github: Charbelk7@yahoo.com
